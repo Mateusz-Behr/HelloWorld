@@ -8,6 +8,7 @@ namespace HellWorld
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Nazywam się Mateusz Behr.");
+            Console.WriteLine("Test GITa w Visual Studio.");
             
         }
 
